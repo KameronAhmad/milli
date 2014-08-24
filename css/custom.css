@@ -23,6 +23,7 @@ body {
     background: url('../img/psbg.png');
 }
 h1, .h1 {
+    Font-size:45px;
     margin-top: 0px;
     margin-bottom: 30px
     border-bottom: 0.1em dashed red;
